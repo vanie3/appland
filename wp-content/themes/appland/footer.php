@@ -1,30 +1,33 @@
-			<!-- footer -->
-			<footer class="footer" role="contentinfo">
+<?php
+/**
+ * Footer
+ *
+ * @package AppLand
+ * @subpackage Frontend
+ * @since 1.0
+ *
+ * @copyright (c) 2013 Oxygenna.com
+ * @license http://wiki.envato.com/support/legal-terms/licensing-terms/
+ * @version 1.2.2
+ */
+?>
+        <script type="text/javascript">
+            //<![CDATA[
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', '<?php echo oxy_get_option( 'google_anal' ) ?>']);
+            _gaq.push(['_trackPageview']);
 
-				<!-- copyright -->
-				<p class="copyright">
-					&copy; <?php echo date('Y'); ?> Copyright <?php bloginfo('name'); ?>. <?php _e('Powered by', 'html5blank'); ?>
-					<a href="//wordpress.org" title="WordPress">WordPress</a> &amp; <a href="//html5blank.com" title="HTML5 Blank">HTML5 Blank</a>.
-				</p>
-				<!-- /copyright -->
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+            //]]>
+        </script>
+        <div id="fb-root"></div>
 
-			</footer>
-			<!-- /footer -->
 
-		</div>
-		<!-- /wrapper -->
 
-		<?php wp_footer(); ?>
-
-		<!-- analytics -->
-		<script>
-		(function(f,i,r,e,s,h,l){i['GoogleAnalyticsObject']=s;f[s]=f[s]||function(){
-		(f[s].q=f[s].q||[]).push(arguments)},f[s].l=1*new Date();h=i.createElement(r),
-		l=i.getElementsByTagName(r)[0];h.async=1;h.src=e;l.parentNode.insertBefore(h,l)
-		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-		ga('create', 'UA-XXXXXXXX-XX', 'yourdomain.com');
-		ga('send', 'pageview');
-		</script>
-
-	</body>
+        <?php wp_footer(); ?> 
+    </body>
 </html>

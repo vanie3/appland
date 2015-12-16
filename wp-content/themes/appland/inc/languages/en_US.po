@@ -1,0 +1,2135 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR (c) 2013 Oxygenna.com
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: AppLand Frontend Translation File 1.2.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-25 15:50+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: build/inc/backend.php:88 build/inc/backend.php:131
+msgid "Image Title"
+msgstr ""
+
+#: build/inc/backend.php:89 build/inc/backend.php:132
+msgid "Image"
+msgstr ""
+
+#: build/inc/backend.php:90 build/inc/backend.php:133
+msgid "Order"
+msgstr ""
+
+#: build/inc/backend.php:91 build/inc/custom_posts.php:45
+msgid "Slideshows"
+msgstr ""
+
+#: build/inc/backend.php:134 build/inc/custom_posts.php:210
+#: build/inc/options/shortcodes/shortcode-options.php:853
+msgid "Galleries"
+msgstr ""
+
+#: build/inc/core/admin/media-upload.php:41
+msgid "Select Image"
+msgstr ""
+
+#: build/inc/core/admin/quick-uploader.php:77
+msgid "You do not have permission to upload files."
+msgstr ""
+
+#: build/inc/core/admin/quick-uploader.php:92
+#: build/inc/core/admin/shortcodes/shortcode-admin.php:61
+#: build/inc/core/admin/shortcodes/shortcode-admin.php:76
+#: build/inc/core/admin/shortcodes/shortcode-admin.php:95
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: build/inc/core/admin/quick-uploader.php:118
+msgid "Upload New Media"
+msgstr ""
+
+#: build/inc/core/admin/quick-uploader.php:151
+msgid "Use these images"
+msgstr ""
+
+#: build/inc/core/admin/quick-uploader.php:177
+msgid "Save"
+msgstr ""
+
+#: build/inc/core/admin/quick-uploader.php:283
+#, php-format
+msgid "Created %d %s"
+msgstr ""
+
+#: build/inc/core/admin/shortcodes/shortcode-options.php:115
+#: build/inc/core/admin/shortcodes/shortcode-options.php:129
+msgid "Insert"
+msgstr ""
+
+#: build/inc/core/admin/shortcodes/shortcode-options.php:116
+#: build/inc/core/admin/shortcodes/shortcode-options.php:130
+msgid "Close"
+msgstr ""
+
+#: build/inc/core/admin/shortcodes/shortcode-options.php:123
+msgid "No Preview For This Shortcode"
+msgstr ""
+
+#: build/inc/core/admin/themeadmin.php:102
+#, php-format
+msgid "Version %s is incompatible with this theme minimum version %s"
+msgstr ""
+
+#: build/inc/core/admin/themeadmin.php:143
+msgid "One"
+msgstr ""
+
+#: build/inc/core/admin/themeadmin.php:144
+msgid "Two"
+msgstr ""
+
+#: build/inc/core/admin/themeadmin.php:145
+msgid "Three"
+msgstr ""
+
+#: build/inc/core/admin/themeadmin.php:146
+msgid "Four"
+msgstr ""
+
+#: build/inc/core/options/fields/font/font.php:98
+#: build/inc/modules/typography/admin.php:377
+msgid "System Fontstacks"
+msgstr ""
+
+#: build/inc/core/options/fields/font/font.php:113
+#: build/inc/modules/typography/admin.php:392
+msgid "Google Web Fonts"
+msgstr ""
+
+#: build/inc/core/options/fields/select/select.php:77
+msgid "Select a Slideshow"
+msgstr ""
+
+#: build/inc/core/options/fields/select/select.php:93
+msgid "Select a Staff member"
+msgstr ""
+
+#: build/inc/core/options/fields/select/select.php:103
+msgid "all categories"
+msgstr ""
+
+#: build/inc/core/options/fields/select/select.php:107
+msgid "Select a Portfolio"
+msgstr ""
+
+#: build/inc/core/options/fields/upload/upload.php:64
+msgid "Set Image"
+msgstr ""
+
+#: build/inc/core/options/fields/upload/upload.php:65
+msgid "Remove Image"
+msgstr ""
+
+#: build/inc/core/options/options.php:271
+msgid "Restore Defaults"
+msgstr ""
+
+#: build/inc/core/options/validation/date.php:43
+msgid "Invalid date supplied"
+msgstr ""
+
+#: build/inc/core/theme.php:206
+msgid "Theme"
+msgstr ""
+
+#: build/inc/custom_posts.php:17
+#: build/inc/options/quick-uploaders/quick-uploaders.php:20
+msgid "Slideshow Images"
+msgstr ""
+
+#: build/inc/custom_posts.php:18 build/inc/custom_posts.php:70
+#: build/inc/options/quick-uploaders/quick-uploaders.php:19
+msgid "Slideshow Image"
+msgstr ""
+
+#: build/inc/custom_posts.php:19 build/inc/custom_posts.php:82
+#: build/inc/custom_posts.php:108 build/inc/custom_posts.php:141
+#: build/inc/custom_posts.php:173
+msgid "Add New"
+msgstr ""
+
+#: build/inc/custom_posts.php:20
+msgid "Add New Image"
+msgstr ""
+
+#: build/inc/custom_posts.php:21
+msgid "Edit Image"
+msgstr ""
+
+#: build/inc/custom_posts.php:22
+msgid "New Image"
+msgstr ""
+
+#: build/inc/custom_posts.php:23
+msgid "View Image"
+msgstr ""
+
+#: build/inc/custom_posts.php:24
+msgid "Search Images"
+msgstr ""
+
+#: build/inc/custom_posts.php:25
+msgid "No images found"
+msgstr ""
+
+#: build/inc/custom_posts.php:26
+msgid "No images found in Trash"
+msgstr ""
+
+#: build/inc/custom_posts.php:27
+msgid "Slider Images"
+msgstr ""
+
+#: build/inc/custom_posts.php:46
+#: build/inc/options/shortcodes/shortcode-options.php:646
+msgid "Slideshow"
+msgstr ""
+
+#: build/inc/custom_posts.php:47
+msgid "Search Slideshows"
+msgstr ""
+
+#: build/inc/custom_posts.php:48
+msgid "All Slideshows"
+msgstr ""
+
+#: build/inc/custom_posts.php:49
+msgid "Edit Slideshow"
+msgstr ""
+
+#: build/inc/custom_posts.php:50
+msgid "Update Slideshow"
+msgstr ""
+
+#: build/inc/custom_posts.php:51
+msgid "Add New Slideshow"
+msgstr ""
+
+#: build/inc/custom_posts.php:52
+msgid "New Slideshow Name"
+msgstr ""
+
+#: build/inc/custom_posts.php:80 build/inc/custom_posts.php:90
+msgid "Sections"
+msgstr ""
+
+#: build/inc/custom_posts.php:81
+msgid "Section"
+msgstr ""
+
+#: build/inc/custom_posts.php:83
+msgid "Add New Section"
+msgstr ""
+
+#: build/inc/custom_posts.php:84
+msgid "Edit Section"
+msgstr ""
+
+#: build/inc/custom_posts.php:85
+msgid "New Section"
+msgstr ""
+
+#: build/inc/custom_posts.php:86
+msgid "View Section"
+msgstr ""
+
+#: build/inc/custom_posts.php:87
+msgid "Search Sections"
+msgstr ""
+
+#: build/inc/custom_posts.php:88
+msgid "No sections found"
+msgstr ""
+
+#: build/inc/custom_posts.php:89
+msgid "No sections found in Trash"
+msgstr ""
+
+#: build/inc/custom_posts.php:106 build/inc/custom_posts.php:117
+#: build/inc/options/shortcodes/shortcode-options.php:775
+#: build/inc/options/shortcodes/shortcode-options.php:779
+msgid "Features"
+msgstr ""
+
+#: build/inc/custom_posts.php:107
+msgid "Feature"
+msgstr ""
+
+#: build/inc/custom_posts.php:109
+msgid "Add New Feature"
+msgstr ""
+
+#: build/inc/custom_posts.php:110
+msgid "Edit Feature"
+msgstr ""
+
+#: build/inc/custom_posts.php:111
+msgid "New Feature"
+msgstr ""
+
+#: build/inc/custom_posts.php:112
+msgid "All Features"
+msgstr ""
+
+#: build/inc/custom_posts.php:113
+msgid "View Feature"
+msgstr ""
+
+#: build/inc/custom_posts.php:114
+msgid "Search Features"
+msgstr ""
+
+#: build/inc/custom_posts.php:115
+msgid "No Features found"
+msgstr ""
+
+#: build/inc/custom_posts.php:116
+msgid "No Features found in Trash"
+msgstr ""
+
+#: build/inc/custom_posts.php:139 build/inc/custom_posts.php:140
+msgid "Testimonial"
+msgstr ""
+
+#: build/inc/custom_posts.php:142
+msgid "Add New Testimonial"
+msgstr ""
+
+#: build/inc/custom_posts.php:143
+msgid "Edit Testimonial"
+msgstr ""
+
+#: build/inc/custom_posts.php:144
+msgid "New Testimonial"
+msgstr ""
+
+#: build/inc/custom_posts.php:145
+msgid "All Testimonial"
+msgstr ""
+
+#: build/inc/custom_posts.php:146
+msgid "View Testimonial"
+msgstr ""
+
+#: build/inc/custom_posts.php:147
+msgid "Search Testimonial"
+msgstr ""
+
+#: build/inc/custom_posts.php:148
+msgid "No Testimonial found"
+msgstr ""
+
+#: build/inc/custom_posts.php:149
+msgid "No Testimonial found in Trash"
+msgstr ""
+
+#: build/inc/custom_posts.php:150
+#: build/inc/options/shortcodes/shortcode-options.php:811
+#: build/inc/options/shortcodes/shortcode-options.php:815
+msgid "Testimonials"
+msgstr ""
+
+#: build/inc/custom_posts.php:171 build/inc/custom_posts.php:182
+msgid "Gallery Items"
+msgstr ""
+
+#: build/inc/custom_posts.php:172
+msgid "Gallery Item"
+msgstr ""
+
+#: build/inc/custom_posts.php:174
+msgid "Add New Gallery Item"
+msgstr ""
+
+#: build/inc/custom_posts.php:175
+msgid "Edit Gallery Item"
+msgstr ""
+
+#: build/inc/custom_posts.php:176
+msgid "New Gallery Item"
+msgstr ""
+
+#: build/inc/custom_posts.php:177
+msgid "View Gallery Item"
+msgstr ""
+
+#: build/inc/custom_posts.php:178
+msgid "Search Gallery Items"
+msgstr ""
+
+#: build/inc/custom_posts.php:179
+msgid "No Gallery Items found"
+msgstr ""
+
+#: build/inc/custom_posts.php:180
+msgid "No Gallery Items found in Trash"
+msgstr ""
+
+#: build/inc/custom_posts.php:211
+#: build/inc/options/shortcodes/shortcode-options.php:846
+#: build/inc/options/shortcodes/shortcode-options.php:850
+msgid "Gallery"
+msgstr ""
+
+#: build/inc/custom_posts.php:212
+msgid "Search Galleries"
+msgstr ""
+
+#: build/inc/custom_posts.php:213
+msgid "All Galleries"
+msgstr ""
+
+#: build/inc/custom_posts.php:214
+msgid "Edit Gallery"
+msgstr ""
+
+#: build/inc/custom_posts.php:215
+msgid "Update Gallery"
+msgstr ""
+
+#: build/inc/custom_posts.php:216
+msgid "Add New Gallery"
+msgstr ""
+
+#: build/inc/custom_posts.php:217
+msgid "New Gallery Name"
+msgstr ""
+
+#: build/inc/frontend.php:16
+msgid "Primary Navigation"
+msgstr ""
+
+#: build/inc/frontend.php:422
+msgid "Pingback:"
+msgstr ""
+
+#: build/inc/frontend.php:422
+msgid "(Edit)"
+msgstr ""
+
+#: build/inc/frontend.php:442
+msgid "Reply"
+msgstr ""
+
+#: build/inc/frontend.php:489
+msgid "your name"
+msgstr ""
+
+#: build/inc/frontend.php:490
+msgid "your email address"
+msgstr ""
+
+#: build/inc/frontend.php:494
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: build/inc/frontend.php:497
+msgid "add your comment here "
+msgstr ""
+
+#: build/inc/frontend.php:498
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: build/inc/frontend.php:499
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: build/inc/frontend.php:505
+msgid "Add your comment"
+msgstr ""
+
+#: build/inc/frontend.php:506
+msgid "Leave a Reply"
+msgstr ""
+
+#: build/inc/frontend.php:507
+msgid "Cancel reply"
+msgstr ""
+
+#: build/inc/frontend.php:508
+msgid "Add comment"
+msgstr ""
+
+#: build/inc/frontend.php:784
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: build/inc/frontend.php:785
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: build/inc/options/icons/social.php:14
+msgid "Facebook"
+msgstr ""
+
+#: build/inc/options/icons/social.php:15
+msgid "Facebook Sign"
+msgstr ""
+
+#: build/inc/options/icons/social.php:16
+msgid "Twitter"
+msgstr ""
+
+#: build/inc/options/icons/social.php:17
+msgid "Twitter Sign"
+msgstr ""
+
+#: build/inc/options/icons/social.php:18
+msgid "Linkedin"
+msgstr ""
+
+#: build/inc/options/icons/social.php:19
+msgid "Linkedin Sign"
+msgstr ""
+
+#: build/inc/options/icons/social.php:20
+msgid "Github Sign"
+msgstr ""
+
+#: build/inc/options/icons/social.php:21
+msgid "Github"
+msgstr ""
+
+#: build/inc/options/icons/social.php:22
+msgid "Github Alt"
+msgstr ""
+
+#: build/inc/options/icons/social.php:23
+msgid "Git Fork"
+msgstr ""
+
+#: build/inc/options/icons/social.php:24
+msgid "Pinterest"
+msgstr ""
+
+#: build/inc/options/icons/social.php:25
+msgid "Pinterest Sign"
+msgstr ""
+
+#: build/inc/options/icons/social.php:26
+msgid "Google Plus Sign"
+msgstr ""
+
+#: build/inc/options/icons/social.php:27
+msgid "GooglePlus"
+msgstr ""
+
+#: build/inc/options/icons/social.php:28
+msgid "Dropbox"
+msgstr ""
+
+#: build/inc/options/icons/social.php:29
+msgid "Drupal"
+msgstr ""
+
+#: build/inc/options/icons/social.php:30
+msgid "Instagram"
+msgstr ""
+
+#: build/inc/options/icons/social.php:31
+msgid "Share This-Sign"
+msgstr ""
+
+#: build/inc/options/icons/social.php:32
+msgid "Share This"
+msgstr ""
+
+#: build/inc/options/icons/social.php:33
+msgid "Foursquare Sign"
+msgstr ""
+
+#: build/inc/options/icons/social.php:34
+msgid "Foursquare"
+msgstr ""
+
+#: build/inc/options/icons/social.php:35
+msgid "Hacker News"
+msgstr ""
+
+#: build/inc/options/icons/social.php:36
+msgid "Skype"
+msgstr ""
+
+#: build/inc/options/icons/social.php:37
+msgid "Spotify"
+msgstr ""
+
+#: build/inc/options/icons/social.php:38
+msgid "Soundcloud"
+msgstr ""
+
+#: build/inc/options/icons/social.php:39
+msgid "Paypal"
+msgstr ""
+
+#: build/inc/options/icons/social.php:40
+msgid "Youtube Sign"
+msgstr ""
+
+#: build/inc/options/icons/social.php:41
+msgid "Youtube"
+msgstr ""
+
+#: build/inc/options/icons/social.php:42
+msgid "Reddit"
+msgstr ""
+
+#: build/inc/options/icons/social.php:43
+msgid "Blogger Sign"
+msgstr ""
+
+#: build/inc/options/icons/social.php:44
+msgid "Blogger"
+msgstr ""
+
+#: build/inc/options/icons/social.php:45
+msgid "Dribbble Sign"
+msgstr ""
+
+#: build/inc/options/icons/social.php:46
+msgid "Dribbble"
+msgstr ""
+
+#: build/inc/options/icons/social.php:47
+msgid "Evernote Sign"
+msgstr ""
+
+#: build/inc/options/icons/social.php:48
+msgid "Evernote"
+msgstr ""
+
+#: build/inc/options/icons/social.php:49
+msgid "Flickr Sign"
+msgstr ""
+
+#: build/inc/options/icons/social.php:50
+msgid "Flickr"
+msgstr ""
+
+#: build/inc/options/icons/social.php:51
+msgid "Forrst Sign"
+msgstr ""
+
+#: build/inc/options/icons/social.php:52
+msgid "Forrst"
+msgstr ""
+
+#: build/inc/options/icons/social.php:53
+msgid "Delicious"
+msgstr ""
+
+#: build/inc/options/icons/social.php:54
+msgid "Lastfm Sign"
+msgstr ""
+
+#: build/inc/options/icons/social.php:55
+msgid "Lastfm"
+msgstr ""
+
+#: build/inc/options/icons/social.php:56
+msgid "Picasa Sign"
+msgstr ""
+
+#: build/inc/options/icons/social.php:57
+msgid "Picasa"
+msgstr ""
+
+#: build/inc/options/icons/social.php:58
+msgid "Stack Overflow"
+msgstr ""
+
+#: build/inc/options/icons/social.php:59
+msgid "Tumblr Sign"
+msgstr ""
+
+#: build/inc/options/icons/social.php:60
+msgid "Tumblr"
+msgstr ""
+
+#: build/inc/options/icons/social.php:61
+msgid "Vimeo Sign"
+msgstr ""
+
+#: build/inc/options/icons/social.php:62
+msgid "Vimeo"
+msgstr ""
+
+#: build/inc/options/icons/social.php:63
+msgid "Wordpress Sign"
+msgstr ""
+
+#: build/inc/options/icons/social.php:64
+msgid "Wordpress"
+msgstr ""
+
+#: build/inc/options/icons/social.php:65
+msgid "Yelp Sign"
+msgstr ""
+
+#: build/inc/options/icons/social.php:66
+msgid "Yelp"
+msgstr ""
+
+#: build/inc/options/icons/social.php:67
+msgid "Envelope"
+msgstr ""
+
+#: build/inc/options/icons/social.php:68
+msgid "Envelope Alt"
+msgstr ""
+
+#: build/inc/options/metaboxes/theme-metaboxes.php:48
+msgid "Section Background"
+msgstr ""
+
+#: build/inc/options/metaboxes/theme-metaboxes.php:54
+msgid "Section Background Repeat"
+msgstr ""
+
+#: build/inc/options/metaboxes/theme-metaboxes.php:58
+#: build/inc/options/metaboxes/theme-metaboxes.php:94
+#: build/inc/options/metaboxes/theme-metaboxes.php:115
+#: build/inc/options/metaboxes/theme-metaboxes.php:136
+msgid "No Repeat"
+msgstr ""
+
+#: build/inc/options/metaboxes/theme-metaboxes.php:59
+#: build/inc/options/metaboxes/theme-metaboxes.php:95
+#: build/inc/options/metaboxes/theme-metaboxes.php:116
+#: build/inc/options/metaboxes/theme-metaboxes.php:137
+msgid "Repeat X"
+msgstr ""
+
+#: build/inc/options/metaboxes/theme-metaboxes.php:60
+#: build/inc/options/metaboxes/theme-metaboxes.php:96
+#: build/inc/options/metaboxes/theme-metaboxes.php:117
+#: build/inc/options/metaboxes/theme-metaboxes.php:138
+msgid "Repeat Y"
+msgstr ""
+
+#: build/inc/options/metaboxes/theme-metaboxes.php:61
+#: build/inc/options/metaboxes/theme-metaboxes.php:97
+#: build/inc/options/metaboxes/theme-metaboxes.php:118
+#: build/inc/options/metaboxes/theme-metaboxes.php:139
+msgid "Repeat Both"
+msgstr ""
+
+#: build/inc/options/metaboxes/theme-metaboxes.php:65
+msgid "Section Background Scroll"
+msgstr ""
+
+#: build/inc/options/metaboxes/theme-metaboxes.php:69
+msgid "Scroll"
+msgstr ""
+
+#: build/inc/options/metaboxes/theme-metaboxes.php:70
+msgid "Fixed"
+msgstr ""
+
+#: build/inc/options/metaboxes/theme-metaboxes.php:74
+msgid "Parallax Backgrounds (add up to 3)"
+msgstr ""
+
+#: build/inc/options/metaboxes/theme-metaboxes.php:90
+msgid "Background 1 Repeat"
+msgstr ""
+
+#: build/inc/options/metaboxes/theme-metaboxes.php:111
+msgid "Background 2 Repeat"
+msgstr ""
+
+#: build/inc/options/metaboxes/theme-metaboxes.php:132
+msgid "Background 3 Repeat"
+msgstr ""
+
+#: build/inc/options/metaboxes/theme-metaboxes.php:164
+msgid "Menu Logo"
+msgstr ""
+
+#: build/inc/options/metaboxes/theme-metaboxes.php:165
+msgid "Use a logo for this sections menu"
+msgstr ""
+
+#: build/inc/options/metaboxes/theme-metaboxes.php:170
+msgid "Sticky Section"
+msgstr ""
+
+#: build/inc/options/metaboxes/theme-metaboxes.php:171
+msgid "Ignore menu position and always show section on top"
+msgstr ""
+
+#: build/inc/options/metaboxes/theme-metaboxes.php:198
+#: build/inc/options/shortcodes/shortcode-options.php:188
+#: build/inc/options/shortcodes/shortcode-options.php:212
+msgid "Icon"
+msgstr ""
+
+#: build/inc/options/metaboxes/theme-metaboxes.php:247
+msgid "Hero Panel"
+msgstr ""
+
+#: build/inc/options/metaboxes/theme-metaboxes.php:248
+msgid "Use a Hero Panel for this sections title and subtitle"
+msgstr ""
+
+#: build/inc/options/metaboxes/theme-metaboxes.php:276
+msgid "Open in Magnific popup"
+msgstr ""
+
+#: build/inc/options/metaboxes/theme-metaboxes.php:280
+msgid "Opens item using Magnific Popup"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:15
+msgid "Advanced Theme Options"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:16
+msgid "Advanced"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:22
+msgid "CSS"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:25
+msgid "Extra CSS"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:26
+msgid "Add extra CSS rules to be included in all pages"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:35
+msgid "Site Fav Icon"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:36
+msgid "Set your favicon icons here"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:39
+msgid "Fav Icon"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:43
+msgid "Upload a Fav Icon for your site here"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:49
+msgid "Apple Icons"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:50
+msgid "Set your apple device icons here"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:53
+msgid "iPhone Icon"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:57
+msgid "Upload an icon to be used by iPhone as a bookmark (57 x 57 pixels)"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:61
+msgid "iPhone -  Apply Apple style"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:62
+#: build/inc/options/option-pages/advanced.php:81
+#: build/inc/options/option-pages/advanced.php:100
+#: build/inc/options/option-pages/advanced.php:119
+msgid "Allow device to apply styling to the icon?"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:67
+#: build/inc/options/option-pages/advanced.php:86
+#: build/inc/options/option-pages/advanced.php:105
+#: build/inc/options/option-pages/advanced.php:124
+msgid "Allow Styling"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:68
+#: build/inc/options/option-pages/advanced.php:87
+#: build/inc/options/option-pages/advanced.php:106
+#: build/inc/options/option-pages/advanced.php:125
+msgid "Leave It Alone"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:72
+msgid "iPhone Retina Icon"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:76
+msgid ""
+"Upload an icon to be used by iPhone Retina as a bookmark (114 x 114 pixels)"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:80
+msgid "iPhone Retina -  Apply Apple style"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:91
+msgid "iPad Icon"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:95
+msgid "Upload an icon to be used by iPad as a bookmark (72 x 72 pixels)"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:99
+#: build/inc/options/option-pages/advanced.php:118
+msgid "iPad -  Apply Apple style"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:110
+msgid "iPad Retina Icon"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:114
+msgid ""
+"Upload an icon to be used by iPad Retina as a bookmark (144 x 144 pixels)"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:131
+msgid "Google"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:132
+msgid "Set your google options here"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:135
+msgid "Google Analytics"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:136
+msgid "Paste your google analytics code here"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:142
+msgid "Google Webmaster Tools"
+msgstr ""
+
+#: build/inc/options/option-pages/advanced.php:143
+msgid "Add the code to place inside your google-site-verification meta tag"
+msgstr ""
+
+#: build/inc/options/option-pages/fonts.php:15
+msgid "Typography Settings"
+msgstr ""
+
+#: build/inc/options/option-pages/fonts.php:16
+msgid "Fonts"
+msgstr ""
+
+#: build/inc/options/option-pages/fonts.php:22
+msgid "Fonts settings section"
+msgstr ""
+
+#: build/inc/options/option-pages/fonts.php:23
+msgid "Setup Fonts settings here."
+msgstr ""
+
+#: build/inc/options/option-pages/fonts.php:26
+msgid "Typography Preview:"
+msgstr ""
+
+#: build/inc/options/option-pages/fonts.php:30
+msgid "This is a sample heading"
+msgstr ""
+
+#: build/inc/options/option-pages/fonts.php:31
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua."
+msgstr ""
+
+#: build/inc/options/option-pages/fonts.php:34
+msgid "Update your Google Fonts list"
+msgstr ""
+
+#: build/inc/options/option-pages/fonts.php:37
+msgid "google_update"
+msgstr ""
+
+#: build/inc/options/option-pages/fonts.php:51
+msgid "Select a Body Font"
+msgstr ""
+
+#: build/inc/options/option-pages/fonts.php:52
+#: build/inc/options/option-pages/fonts.php:68
+msgid "Select a Font family"
+msgstr ""
+
+#: build/inc/options/option-pages/fonts.php:58
+#: build/inc/options/option-pages/fonts.php:74
+msgid "Choose a family"
+msgstr ""
+
+#: build/inc/options/option-pages/fonts.php:67
+msgid "Select a Headings Font"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:15
+#: build/inc/options/option-pages/general.php:16
+msgid "General"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:23
+msgid "Site Style"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:24
+msgid "Set the style of your site"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:27
+msgid "Style"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:28
+msgid "Choose a colour to use for your site"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:32
+msgid "Green"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:33
+msgid "Orange"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:34
+msgid "Blue"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:41
+#: build/inc/options/option-pages/general.php:64
+msgid "Logo"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:42
+msgid "Upload and configure your site logo here"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:45
+msgid "Logo Type"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:46
+msgid "Select which kind of logo you would like"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:50
+msgid "Use Text"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:51
+msgid "Use Image"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:52
+msgid "Both Text & Image"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:57
+msgid "Logo Text"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:58
+msgid "Add your logo text here"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:65
+msgid "Upload a logo for your site"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:71
+#: build/inc/options/option-pages/general.php:76
+msgid "Retina Logo"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:72
+msgid ""
+"Use retina logo (NOTE - you will need to upload a logo that is twice the "
+"size intended to display)"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:77
+msgid "Normal Logo"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:82
+msgid "Menu Align"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:83
+msgid "Align the main navigation menu"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:87
+#: build/inc/options/shortcodes/shortcode-options.php:359
+#: build/inc/options/shortcodes/shortcode-options.php:417
+#: build/inc/options/shortcodes/shortcode-options.php:608
+msgid "Left"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:88
+msgid "Center"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:89
+#: build/inc/options/shortcodes/shortcode-options.php:360
+#: build/inc/options/shortcodes/shortcode-options.php:418
+#: build/inc/options/shortcodes/shortcode-options.php:606
+msgid "Right"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:94
+msgid "Header Height"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:95
+msgid "Set the height of the header in case you use a custom logo image"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:108
+msgid "Blog"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:109
+msgid "Setup your blog here"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:112
+msgid "Show Comments On"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:113
+msgid ""
+"Where to allow comments. All (show all), Pages (only on pages), Posts (only "
+"on posts), Off (all comments are off)"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:117
+msgid "All"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:118
+msgid "Pages"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:119
+msgid "Posts"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:120
+#: build/inc/options/shortcodes/shortcode-options.php:755
+msgid "Off"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:125
+msgid "Blog read more link"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:126
+msgid "The text that will be used for your read more links"
+msgstr ""
+
+#: build/inc/options/option-pages/general.php:129
+msgid "Read More"
+msgstr ""
+
+#: build/inc/options/option-pages/mailchimp.php:15
+msgid "MailChimp Settings"
+msgstr ""
+
+#: build/inc/options/option-pages/mailchimp.php:16
+msgid "MailChimp"
+msgstr ""
+
+#: build/inc/options/option-pages/mailchimp.php:22
+msgid "MailChimp settings section"
+msgstr ""
+
+#: build/inc/options/option-pages/mailchimp.php:23
+msgid "Setup MailChimp here to gather user emails."
+msgstr ""
+
+#: build/inc/options/option-pages/mailchimp.php:26
+msgid "Mailchimp API key"
+msgstr ""
+
+#: build/inc/options/option-pages/mailchimp.php:27
+msgid "Paste your Mailchimp API key here"
+msgstr ""
+
+#: build/inc/options/option-pages/mailchimp.php:33
+msgid "Update your MailChimp lists"
+msgstr ""
+
+#: build/inc/options/option-pages/mailchimp.php:36
+msgid "Update lists"
+msgstr ""
+
+#: build/inc/options/option-pages/mailchimp.php:43
+msgid "Subscription List"
+msgstr ""
+
+#: build/inc/options/option-pages/mailchimp.php:44
+msgid "Select a list to save emails to."
+msgstr ""
+
+#: build/inc/options/option-pages/mailchimp.php:49
+msgid "Choose a list"
+msgstr ""
+
+#: build/inc/options/quick-uploaders/quick-uploaders.php:17
+msgid "Quick Slideshow"
+msgstr ""
+
+#: build/inc/options/quick-uploaders/quick-uploaders.php:18
+msgid "Quick Slideshow Creator"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:17
+msgid "Columns"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:22
+msgid "Blank Row"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:28
+msgid "Span1 (1/12th)"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:34
+msgid "Span2 (1/6th)"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:40
+msgid "Span3 (1/4)"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:46
+msgid "Span4 (1/3rd)"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:52
+msgid "Span5 (5/12th)"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:58
+msgid "Span6 (1/2)"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:64
+msgid "Span7 (7/12th)"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:70
+msgid "Span8 (2/3rd)"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:76
+msgid "Span9 (3/4)"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:82
+msgid "Span10 (10/12th)"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:88
+msgid "Span11 (11/12th)"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:94
+msgid "Span12 (one whole row)"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:102
+msgid "Layouts"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:105
+msgid "2 Columns"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:110
+msgid "1/2 - 1/2"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:116
+msgid "1/3 - 2/3"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:122
+msgid "2/3 - 1/3"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:128
+msgid "1/4 - 3/4"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:134
+msgid "3/4 - 1/4"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:140
+#: build/inc/options/shortcodes/shortcode-options.php:800
+#: build/inc/options/shortcodes/shortcode-options.php:836
+#: build/inc/options/shortcodes/shortcode-options.php:885
+msgid "3 Columns"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:145
+msgid "1/3 - 1/3 - 1/3"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:151
+#: build/inc/options/shortcodes/shortcode-options.php:801
+#: build/inc/options/shortcodes/shortcode-options.php:837
+#: build/inc/options/shortcodes/shortcode-options.php:884
+msgid "4 Columns"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:156
+msgid "1/4 - 1/4 - 1/4 - 1/4"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:166
+msgid "Typography"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:170
+msgid "Lead Paragraph"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:176
+msgid "Blockquote"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:182
+msgid "Iconlist"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:195
+msgid "Font Size"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:196
+msgid ""
+"Size of font to use for icon ( set to 0 to inhertit font size from "
+"container )"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:213
+msgid "Type of button to display"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:227
+msgid "App Stores"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:231
+msgid "Google Play"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:235
+msgid "Google Play Options"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:238
+msgid "Package name"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:239
+#: build/inc/options/shortcodes/shortcode-options.php:255
+#: build/inc/options/shortcodes/shortcode-options.php:378
+msgid "Set the link to your app"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:244
+msgid "com.example.android"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:254
+msgid "Publisher name"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:260
+msgid "Example, Inc"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:264
+#: build/inc/options/shortcodes/shortcode-options.php:387
+msgid "Badge Height"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:265
+msgid "Height of the google play badge"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:269
+#: build/inc/options/shortcodes/shortcode-options.php:392
+msgid "45px"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:270
+#: build/inc/options/shortcodes/shortcode-options.php:393
+msgid "60px"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:275
+msgid "Badge Style"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:276
+msgid "Choose a style of button"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:280
+msgid "Get It On"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:281
+msgid "Android App On"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:286
+msgid "Language"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:287
+msgid "Text language in the button"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:291
+msgid "Afrikaans"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:292
+msgid "Беларуская"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:293
+msgid "Български"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:294
+msgid "Català"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:295
+msgid "中文 (中国)"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:296
+msgid "中文（香港）"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:297
+msgid "中文 (台灣)"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:298
+msgid "Hrvatski"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:299
+msgid "Česky"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:300
+msgid "Dansk"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:301
+msgid "Nederlands"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:302
+msgid "Eesti"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:303
+msgid "فارسی"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:304
+msgid "Tagalog"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:305
+msgid "Suomi"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:306
+msgid "Français"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:307
+msgid "Deutsch"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:308
+msgid "Ελληνικά"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:309
+msgid "English"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:310
+msgid "Magyar"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:311
+msgid "Bahasa Indonesia"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:312
+msgid "Italiano"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:313
+msgid "日本語"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:314
+msgid "한국어"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:315
+msgid "Latviešu"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:316
+msgid "Lietuviškai"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:317
+msgid "Bahasa Melayu"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:318
+msgid "Norsk (bokmål)‎"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:319
+msgid "Polski"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:320
+msgid "Português (Brasil)"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:321
+msgid "Português (Portugal)"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:322
+msgid "Română"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:323
+msgid "Русский"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:324
+msgid "Српски / srpski"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:325
+msgid "Slovenčina"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:326
+msgid "Slovenščina"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:327
+msgid "Español (España)"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:328
+msgid "Español (Latinoamérica)"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:329
+msgid "Svenska"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:330
+msgid "Kiswahili"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:331
+msgid "ไทย"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:332
+msgid "Türkçe"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:333
+msgid "Українська"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:334
+msgid "Tiếng Việt"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:335
+msgid "isiZulu</"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:340
+#: build/inc/options/shortcodes/shortcode-options.php:398
+msgid "Open Link In"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:345
+#: build/inc/options/shortcodes/shortcode-options.php:403
+msgid "Same page as it was clicked "
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:346
+#: build/inc/options/shortcodes/shortcode-options.php:404
+msgid "Open in new window/tab"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:347
+#: build/inc/options/shortcodes/shortcode-options.php:405
+msgid "Open the linked document in the parent frameset"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:348
+#: build/inc/options/shortcodes/shortcode-options.php:406
+msgid "Open the linked document in the full body of the window"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:350
+#: build/inc/options/shortcodes/shortcode-options.php:408
+msgid "Where the badge link opens to"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:353
+#: build/inc/options/shortcodes/shortcode-options.php:411
+msgid "Float Button"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:358
+#: build/inc/options/shortcodes/shortcode-options.php:416
+#: build/inc/options/shortcodes/shortcode-options.php:593
+msgid "None"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:362
+#: build/inc/options/shortcodes/shortcode-options.php:420
+msgid "Position button (left/right/none)"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:370
+#: build/inc/options/shortcodes/shortcode-options.php:374
+msgid "App Store"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:377
+msgid "App Link"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:383
+msgid "Add link to app store here"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:388
+msgid "Set the height of your badge"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:431
+msgid "Social"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:435
+msgid "Facebook Like"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:439
+msgid "Like on facebook"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:442
+msgid "Layout"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:443
+msgid "Include a Send button with the Like button."
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:447
+#: build/inc/options/shortcodes/shortcode-options.php:582
+msgid "Standard"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:448
+msgid "Button Count"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:449
+msgid "Box Count"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:454
+msgid "Show Faces"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:455
+msgid "Display profile photos below the button (standard layout only)"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:459
+#: build/inc/options/shortcodes/shortcode-options.php:764
+msgid "Show"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:460
+#: build/inc/options/shortcodes/shortcode-options.php:765
+msgid "Hide"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:465
+msgid "Width"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:466
+msgid "Width of the Like button."
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:477
+msgid "Button Text"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:478
+msgid "Verb to display on the button"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:482
+msgid "Like"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:483
+msgid "Recommend"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:488
+msgid "Button Font"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:489
+msgid "Font to display in the button"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:493
+msgid "Arial"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:494
+msgid "Lucida Grande"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:495
+msgid "Segoe ui"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:496
+msgid "Tahoma"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:497
+msgid "Trebuchet ms"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:498
+msgid "Verdana"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:503
+msgid "Button Colour"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:504
+msgid "Color scheme for the like button."
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:508
+msgid "Light"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:509
+msgid "Dark"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:519
+msgid "Tweet Button"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:523
+msgid "Set the style of twitter tweet button"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:526
+msgid "Tweet Text"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:527
+msgid "Default Tweet text. Leave blank to use page title."
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:530
+msgid "Check out this great post"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:533
+msgid "Tweet Hashtags"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:534
+msgid "Hashtags to include in tweet. (comma separated without the # symbol)"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:540
+msgid "Count Box Position"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:541
+msgid "Choose where to show the tweet count box"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:545
+msgid "No Count Box"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:546
+msgid "Horizontal"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:547
+msgid "Vertical"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:552
+#: build/inc/options/shortcodes/shortcode-options.php:575
+msgid "Button Size"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:553
+msgid "Choose a size for your tweet button"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:557
+#: build/inc/options/shortcodes/shortcode-options.php:581
+msgid "Medium"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:558
+msgid "Large"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:568
+msgid "Google +"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:572
+msgid "Show Google+ Button"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:576
+msgid "Size of google plus button"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:580
+msgid "Small"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:583
+msgid "Tall"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:588
+msgid "Button Bubble"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:589
+msgid "Sets the annotation to display next to the button."
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:594
+msgid "Bubble"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:595
+msgid "Inline"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:600
+msgid "Expand To"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:601
+msgid "Sets the preferred positions to display hover and confirmation bubbles"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:605
+msgid "Top"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:607
+msgid "Bottom"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:619
+msgid "Mailchimp"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:624
+msgid "Social Icons"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:628
+msgid "Icons"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:638
+msgid "Components"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:642
+#: build/inc/options/shortcodes/shortcode-options.php:649
+msgid "Device"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:650
+msgid "Choose a device to use for your slider"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:655
+msgid "iPhone 5"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:658
+#: build/inc/options/shortcodes/shortcode-options.php:677
+#: build/inc/options/shortcodes/shortcode-options.php:694
+msgid "&nbsp;&nbsp;&nbsp;&nbsp;Landscape"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:660
+#: build/inc/options/shortcodes/shortcode-options.php:667
+#: build/inc/options/shortcodes/shortcode-options.php:679
+#: build/inc/options/shortcodes/shortcode-options.php:685
+#: build/inc/options/shortcodes/shortcode-options.php:697
+msgid "&nbsp;&nbsp;&nbsp;&nbsp;White"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:661
+#: build/inc/options/shortcodes/shortcode-options.php:668
+#: build/inc/options/shortcodes/shortcode-options.php:696
+msgid "&nbsp;&nbsp;&nbsp;&nbsp;Black"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:665
+#: build/inc/options/shortcodes/shortcode-options.php:683
+msgid "&nbsp;&nbsp;&nbsp;&nbsp;Portrait"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:674
+msgid "iPhone 4"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:691
+msgid "iPad"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:703
+msgid "MacBook"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:709
+msgid "Choose a slideshow"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:710
+msgid "Populate your slider with one of the slideshows you created"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:719
+msgid "Slideshow Options"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:722
+msgid "Animation style"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:723
+msgid "Select how your slider animates"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:727
+msgid "Slide"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:728
+msgid "Fade"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:736
+msgid "Speed"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:737
+msgid "Set the speed of the slideshow cycling, in milliseconds"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:748
+msgid "Auto start"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:752
+msgid "Start slideshow automatically"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:754
+msgid "On"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:759
+msgid "Show navigation arrows"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:782
+msgid "Number Of Features"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:783
+msgid "Number of Features to display"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:794
+msgid "Feature span"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:795
+msgid "Span of a Feature in the layout"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:818
+msgid "Number Of Testimonials"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:819
+msgid "Number of Testimonials to display"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:830
+msgid "Small testimonial span"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:831
+msgid "Span of a testimonial in the small layout"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:854
+msgid "Galleries to show (leave blank to show all)"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:866
+msgid "Number of gallery items"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:867
+msgid "Number of gallery items to display"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:878
+msgid "Gallery item span"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:879
+msgid "Span of a gallery item in the layout"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:889
+msgid "Gallery rows"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:890
+msgid "Number of gallery rows in the layout"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:895
+msgid "3 Rows"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:896
+msgid "2 Rows"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:897
+msgid "1 Row"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:937
+#, php-format
+msgid "Social %s Icon"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:938
+#, php-format
+msgid "icon_%s"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:942
+msgid "Choose a social network icon"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:949
+#, php-format
+msgid "Social %s URL "
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:950
+msgid "Set the url of the Icon"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcode-options.php:951
+#, php-format
+msgid "url_%s"
+msgstr ""

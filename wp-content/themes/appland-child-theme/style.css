@@ -1,0 +1,29 @@
+/*
+Theme Name: AppLand Child Theme
+Version: 1.0
+Description: A child theme of AppLand
+Template: appland
+*/
+
+@import url("../appland/style.css");
+
+
+.center{
+	text-align:center;
+}
+.social{
+	text-align: center;
+}
+
+a.app-store-button.pull-none {
+	display: none;
+}
+.footer-title{
+    font-family: "Oswald";
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align:center;
+}
+.testimonial{
+
+}

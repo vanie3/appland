@@ -1,0 +1,141 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR (c) 2013 Oxygenna.com
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: AppLand Frontend Translation File 1.2.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-25 15:50+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: build/category.php:14 build/home.php:25
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: build/category.php:30 build/home.php:41
+msgid "Read more.."
+msgstr ""
+
+#: build/comments.php:31
+msgid "&larr; Older"
+msgstr ""
+
+#: build/comments.php:32
+msgid "Newer &rarr;"
+msgstr ""
+
+#: build/comments.php:42
+msgid "Comments are closed."
+msgstr ""
+
+#: build/inc/core/theme.php:206
+msgid "Theme"
+msgstr ""
+
+#: build/inc/frontend.php:16
+msgid "Primary Navigation"
+msgstr ""
+
+#: build/inc/frontend.php:422
+msgid "Pingback:"
+msgstr ""
+
+#: build/inc/frontend.php:422
+msgid "(Edit)"
+msgstr ""
+
+#: build/inc/frontend.php:442
+msgid "Reply"
+msgstr ""
+
+#: build/inc/frontend.php:489
+msgid "your name"
+msgstr ""
+
+#: build/inc/frontend.php:490
+msgid "your email address"
+msgstr ""
+
+#: build/inc/frontend.php:494
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: build/inc/frontend.php:497
+msgid "add your comment here "
+msgstr ""
+
+#: build/inc/frontend.php:498
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: build/inc/frontend.php:499
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: build/inc/frontend.php:505
+msgid "Add your comment"
+msgstr ""
+
+#: build/inc/frontend.php:506
+msgid "Leave a Reply"
+msgstr ""
+
+#: build/inc/frontend.php:507
+msgid "Cancel reply"
+msgstr ""
+
+#: build/inc/frontend.php:508
+msgid "Add comment"
+msgstr ""
+
+#: build/inc/frontend.php:784
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: build/inc/frontend.php:785
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: build/inc/modules/mailchimp/mailchimp.php:93
+msgid "Error registering"
+msgstr ""
+
+#: build/inc/modules/mailchimp/mailchimp.php:97
+msgid "Registered"
+msgstr ""
+
+#: build/inc/modules/mailchimp/mailchimp.php:102
+msgid "Invalid email"
+msgstr ""
+
+#: build/inc/options/shortcodes/shortcodes.php:518
+msgid "Your email"
+msgstr ""
+
+#: build/partials/post-extras.php:27 build/single.php:43
+msgid "No comments"
+msgstr ""
+
+#: build/partials/post-extras.php:27 build/single.php:44
+msgid "1 comment"
+msgstr ""
+
+#: build/partials/post-extras.php:27 build/single.php:44
+#, php-format
+msgid "% comments"
+msgstr ""

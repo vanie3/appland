@@ -1,67 +1,72 @@
-<?php get_header(); ?>
+<?php
+/**
+ * Displays a single post
+ *
+ * @package AppLand
+ * @subpackage Frontend
+ * @since 1.0
+ *
+ * @copyright (c) 2013 Oxygenna.com
+ * @license http://wiki.envato.com/support/legal-terms/licensing-terms/
+ * @version 1.2.2
+ */
 
-	<main role="main">
-	<!-- section -->
-	<section>
+get_header();
+global $post;
+$custom_fields = get_post_custom($post->ID);
+$allow_comments = oxy_get_option( 'site_comments' );
+?>
 
-	<?php if (have_posts()): while (have_posts()) : the_post(); ?>
+<section class="section">
+    <div class="container">
+        <?php while ( have_posts() ) : the_post(); ?>
+        <article id="post-<?php the_ID();?>" <?php post_class(); ?>>
+            <header class="page-header">
+                <h1>
+                    <?php the_title(); ?>
+                    <small class="post-extras">
 
-		<!-- article -->
-		<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
+                        <i class="icon-user"></i>
+                        <?php the_author(); ?>
+                        <i class="icon-calendar"></i>
+                        <?php the_time(get_option('date_format')); ?>
+                        <?php if( has_tag() && oxy_get_option( 'blog_tags' ) == 'on' ) : ?>
+                        <i class="icon-tags"></i>
+                        <?php the_tags( $before = null, $sep = ', ', $after = '' ); ?>
+                        <?php endif; ?>
+                        <?php if( has_category() ) : ?>
+                        <i class="icon-bookmark"></i>
+                        <?php the_category( ', ' ); ?>
+                        <?php endif; ?>
+                        <?php if ( comments_open() && ! post_password_required()  ) : ?>
+                        <i class="icon-comments"></i>
+                        <?php comments_popup_link( _x( 'No comments', 'comments number', THEME_FRONT_TD ),
+                        _x( '1 comment', 'comments number', THEME_FRONT_TD ), _x( '% comments', 'comments number', THEME_FRONT_TD ) ); ?>
+                        <?php endif; ?>
 
-			<!-- post thumbnail -->
-			<?php if ( has_post_thumbnail()) : // Check if Thumbnail exists ?>
-				<a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">
-					<?php the_post_thumbnail(); // Fullsize image for the single post ?>
-				</a>
-			<?php endif; ?>
-			<!-- /post thumbnail -->
+                     </small>
+                </h1>
 
-			<!-- post title -->
-			<h1>
-				<a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>"><?php the_title(); ?></a>
-			</h1>
-			<!-- /post title -->
+            </header>
+            <?php
+                if ( has_post_thumbnail() ) {
+                    $img = wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), 'full' );
+                    $img_link = is_single() ? $img[0] : get_permalink();
+                    echo '<figure class="feature-image">';
+                    echo '<img alt="featured image" src="'.$img[0].'">';
+                    echo '</figure>';
+                } ?>
+            <?php the_content(); ?>
+            <nav id="nav-below" class="post-navigation">
+                <ul class="pager">
+                    <li class="previous"><?php previous_post_link( '%link', '<i class="icon-angle-left"></i>' . ' %title' ); ?></li>
+                    <li class="next"><?php next_post_link( '%link', '%title ' . '<i class="icon-angle-right"></i>' ); ?></li>
+                </ul>
+            </nav><!-- nav-below -->
+            <?php if( $allow_comments == 'posts' || $allow_comments == 'all' ) comments_template( '', true ); ?>
+        </article>
+        <?php endwhile; ?>
+    </div>
+</section>
 
-			<!-- post details -->
-			<span class="date"><?php the_time('F j, Y'); ?> <?php the_time('g:i a'); ?></span>
-			<span class="author"><?php _e( 'Published by', 'html5blank' ); ?> <?php the_author_posts_link(); ?></span>
-			<span class="comments"><?php if (comments_open( get_the_ID() ) ) comments_popup_link( __( 'Leave your thoughts', 'html5blank' ), __( '1 Comment', 'html5blank' ), __( '% Comments', 'html5blank' )); ?></span>
-			<!-- /post details -->
-
-			<?php the_content(); // Dynamic Content ?>
-
-			<?php the_tags( __( 'Tags: ', 'html5blank' ), ', ', '<br>'); // Separated by commas with a line break at the end ?>
-
-			<p><?php _e( 'Categorised in: ', 'html5blank' ); the_category(', '); // Separated by commas ?></p>
-
-			<p><?php _e( 'This post was written by ', 'html5blank' ); the_author(); ?></p>
-
-			<?php edit_post_link(); // Always handy to have Edit Post Links available ?>
-
-			<?php comments_template(); ?>
-
-		</article>
-		<!-- /article -->
-
-	<?php endwhile; ?>
-
-	<?php else: ?>
-
-		<!-- article -->
-		<article>
-
-			<h1><?php _e( 'Sorry, nothing to display.', 'html5blank' ); ?></h1>
-
-		</article>
-		<!-- /article -->
-
-	<?php endif; ?>
-
-	</section>
-	<!-- /section -->
-	</main>
-
-<?php get_sidebar(); ?>
-
-<?php get_footer(); ?>
+<?php get_footer();

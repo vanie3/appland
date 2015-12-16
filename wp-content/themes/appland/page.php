@@ -1,45 +1,19 @@
-<?php get_header(); ?>
+<?php
+/**
+ * Displays a single post
+ *
+ * @package AppLand
+ * @subpackage Frontend
+ * @since 1.0
+ *
+ * @copyright (c) 2013 Oxygenna.com
+ * @license http://wiki.envato.com/support/legal-terms/licensing-terms/
+ * @version 1.2.2
+ */
 
-	<main role="main">
-		<!-- section -->
-		<section>
-
-			<h1><?php the_title(); ?></h1>
-
-		<?php if (have_posts()): while (have_posts()) : the_post(); ?>
-
-			<!-- article -->
-			<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-
-				<?php the_content(); ?>
-
-				<?php comments_template( '', true ); // Remove if you don't want comments ?>
-
-				<br class="clear">
-
-				<?php edit_post_link(); ?>
-
-			</article>
-			<!-- /article -->
-
-		<?php endwhile; ?>
-
-		<?php else: ?>
-
-			<!-- article -->
-			<article>
-
-				<h2><?php _e( 'Sorry, nothing to display.', 'html5blank' ); ?></h2>
-
-			</article>
-			<!-- /article -->
-
-		<?php endif; ?>
-
-		</section>
-		<!-- /section -->
-	</main>
-
-<?php get_sidebar(); ?>
-
-<?php get_footer(); ?>
+if( is_front_page() ) {
+    get_template_part( 'partials/content', 'sections' );
+}
+else {
+    get_template_part( 'partials/content', 'page' );
+}

@@ -1,0 +1,21 @@
+AppLand - Changelog
+
+1.0
+        - initial release
+
+1.1
+        - Added option to make slides linkable
+        - Added option to make gallery items linkable
+        - Fixed issue with z index on appstore buttons
+        - Fixed issue with logo positioning
+        - Fixed bug on gallery shortcode
+
+1.2
+        - Multiple mailchimps in the same page
+
+1.2.1   - ( 22nd April 2014 )
+        - Fixed shortcode editor in WordPress 3.9
+
+1.2.2   - ( 25th February 2015 )
+        - Fixed shortcode editor in WordPress 3.9
+        - Fix for broken parallax images when one is deleted from media library
