@@ -1425,7 +1425,9 @@ ul.iconlist li i {
   position: relative;
   z-index: 1000;
 }
-
+.store{
+  text-align: center;
+}
 /* MEDIA QUERIES */
 /* --------------*/
 /* Big screens */
