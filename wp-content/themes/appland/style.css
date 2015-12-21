@@ -11,3 +11,8 @@
  .page-header p {
 	display: none;
  }
+body #privacy-policy-of-pearl-connect {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  line-height: 1.5;
+}
