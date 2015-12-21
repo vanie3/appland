@@ -25,6 +25,9 @@
 body.agent-iphone, body.agent-ipad {
   -webkit-user-select: none;
 }
+body #privacy-policy-of-pearl-connect {
+  font-family: 'Open Sans', sans-serif;
+}
 
 /* - Typography - */
 h1 {
@@ -77,11 +80,11 @@ figure {
 }
 
 hr {
-  margin-top: 45px;
-  padding-bottom: 45px;
-  background: url(../images/feature-shadow.png) no-repeat bottom center;
-  margin-bottom: 0;
-  border: 0;
+  /*margin-top: 45px;*/
+  /*padding-bottom: 45px;*/
+  /*background: url(../images/feature-shadow.png) no-repeat bottom center;*/
+  /*margin-bottom: 0;*/
+  border: 2px;
   background-position: top center;
   background-size: 100%;
 }
@@ -112,6 +115,15 @@ hr {
   box-shadow: 0px 0px 5px rgba(85, 85, 85, 0.5);
   z-index: 1;
 }
+
+section.section#privacy-policy-of-pearl-connect hr{
+  border-top: 1px dotted #dfdfdf;
+  border-bottom: 1px dotted #dfdfdf;
+}
+section.section#privacy-policy-of-pearl-connect p{
+  line-height:1.5;
+}
+
 
 /* HEADER */
 /* ------ */
