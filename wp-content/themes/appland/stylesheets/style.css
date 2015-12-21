@@ -27,6 +27,8 @@ body.agent-iphone, body.agent-ipad {
 }
 body #privacy-policy-of-pearl-connect {
   font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  line-height: 1.5;
 }
 
 /* - Typography - */
@@ -120,8 +122,9 @@ section.section#privacy-policy-of-pearl-connect hr{
   border-top: 1px dotted #dfdfdf;
   border-bottom: 1px dotted #dfdfdf;
 }
-section.section#privacy-policy-of-pearl-connect p{
-  line-height:1.5;
+section.section#privacy-policy-of-pearl-connect b{
+  color: #787878;
+  font-size: 13px;
 }
 
 
