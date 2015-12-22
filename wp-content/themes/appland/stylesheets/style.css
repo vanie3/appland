@@ -73,8 +73,12 @@ a:hover {
 .theme-orange a:hover {
   color: #d14f00;
 }
-.theme-blue a:hover {
-  /*color: #279ebf;*/
+
+a.priv-policy-link{
+  color: rgb(0,77,123);
+}
+a.priv-policy-link:hover{
+  color: #41b7d8;
 }
 
 figure {
