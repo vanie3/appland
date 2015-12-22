@@ -712,6 +712,9 @@ function oxy_shortcode_appland_gallery($atts , $content = '' ) {
         }
         $output .= '<li class="span' . $span_width . '">';
         $output .= '<figure class="thumbnail-figure">';
+        $output .= '<figcaption>';
+        $output .=  get_the_excerpt();
+        $output .= '</figcaption>';
         if( $use_magnific || $link) {
             $output .= '<a class="popup-link '.$popup_class.'" href="' . $full  . '">';
         }
@@ -721,9 +724,6 @@ function oxy_shortcode_appland_gallery($atts , $content = '' ) {
             $output .= '><i></i>';
             $output .= '</a>';
         }
-        $output .= '<figcaption>';
-        $output .=  get_the_excerpt();
-        $output .= '</figcaption>';
         $output .= '</figure></li>';
 
         $item++;
